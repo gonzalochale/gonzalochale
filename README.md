@@ -1,5 +1,3 @@
-# Welcome
-
-## My Personal web
+# My Personal web
 
 <https://www.gonzalochale.dev/>
